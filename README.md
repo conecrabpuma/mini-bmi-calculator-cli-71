@@ -1,2 +1,9 @@
-# mini-bmi-calculator-cli-71
-A simple bmi calculator project
+# Bmi Calculator
+
+A simple bmi calculator project.
+\n
+## Getting Started
+
+```bash
+python app.py
+```
